@@ -20,7 +20,7 @@ All programs are designed for 8086 architecture and can be executed using DOSBox
 ## 🛠 Requirements
 
 -   DOSBox (Recommended)
--   NASM / TASM assembler
+-   NASM assembler
 -   Windows OS (for DOSBox setup)
 
 ------------------------------------------------------------------------
