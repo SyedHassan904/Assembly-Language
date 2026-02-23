@@ -1,30 +1,20 @@
 # 🖥️ x86 Assembly Language Programs Collection
 
-This repository contains basic x86 Assembly Language programs written
-for DOS environment.\
-All programs can be executed using DOSBox or any compatible 8086
-emulator.
+This repository contains basic x86 Assembly Language programs written for the DOS environment.  
+All programs are designed for 8086 architecture and can be executed using DOSBox or any compatible emulator.
 
 ------------------------------------------------------------------------
 
-## 📁 Project Files
+## 📁 Included Programs
 
-  File Name        Description
-  ---------------- ---------------------------------
-  al.asm           Basic AL register operations
-  arr.asm          Array handling example
-  cloop.asm        Conditional loop example
-  decLoop.asm      Decrement loop program
-  factorial5.asm   Factorial calculation program
-  first.asm        Simple first assembly program
-  func.asm         Function implementation example
-  loop.asm         Basic loop example
-  print.asm        Printing output to screen
-  sec.asm          Secondary example program
-  sum.asm          Sum calculation
-  sum_func.asm     Sum using function
-  var.asm          Variable usage example
-
+- Basic register operations
+- Array handling
+- Loops (increment & decrement)
+- Factorial calculation
+- Functions & procedures
+- Variable usage
+- Sum calculations
+- Output printing
 ------------------------------------------------------------------------
 
 ## 🛠 Requirements
