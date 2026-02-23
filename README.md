@@ -20,28 +20,24 @@ All programs are designed for 8086 architecture and can be executed using DOSBox
 ## 🛠 Requirements
 
 -   DOSBox (Recommended)
--   MASM / TASM assembler
+-   NASM / TASM assembler
 -   Windows OS (for DOSBox setup)
 
 ------------------------------------------------------------------------
 
 ## ▶️ How to Run
 
-1.  Install DOSBox.
+1. Install DOSBox.
 
-2.  Mount your project folder inside DOSBox:
-
+2. Mount your project folder:
         mount c c:\path\to\your\folder
         c:
 
-3.  Compile the program:
+3. Assemble the program:
+        nasm -f bin filename.asm -o filename.com
 
-        masm filename.asm
-        link filename.obj
-
-4.  Run the executable:
-
-        filename.exe
+4. Run:
+        filename.com
 
 ------------------------------------------------------------------------
 
